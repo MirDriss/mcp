@@ -4,3 +4,4 @@ __pycache__/
 *.pyc
 .mcp.json
 .claude/
+kubernetes/kubeconfig.yaml
